@@ -1,0 +1,30 @@
+
+    "_id" : "ggJqqvsnQCQuzscSz",
+    "ancestors" : [ 
+        "90027973", 
+        "90027973-V"
+    ],
+    "type" : "variant",
+    "price" : 0,
+    "isVisible" : false,
+    "isDeleted" : false,
+    "compareAtPrice" : 0,
+    "estimatedFCC" : 0,
+    "wholesalePrice" : 15,
+    "weight" : 0,
+    "length" : 0,
+    "width" : 0,
+    "height" : 0,
+    "inventoryManagement" : true,
+    "inventoryPolicy" : false,
+    "lowInventoryWarningThreshold" : 0,
+    "inventoryQuantity" : 10,
+    "shopId" : "J8Bhq3uTtdgwZx3rz",
+    "taxable" : true,
+    "taxCode" : "0000",
+    "title" : "TESTCOLOR",
+    "optionTitle" : "TEST",
+    "workflow" : {
+        "status" : "new"
+    }
+}

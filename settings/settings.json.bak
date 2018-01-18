@@ -1,0 +1,11 @@
+{
+  "ROOT_URL": "",
+  "MAIL_URL": "",
+  "reaction": {
+    "REACTION_USER": "anupam",
+    "REACTION_AUTH": "admin",
+    "REACTION_EMAIL": "anupam.p@hcl.com"
+  },
+  "REACTION_LOG_LEVEL": "info",
+  "public": {}
+}
